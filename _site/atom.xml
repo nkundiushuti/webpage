@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>Marius Miron</title>
+	<updated>2017-03-17T23:37:16+01:00</updated>
+
+	<subtitle>I am a PhD student/Research Engineer at Pompeu Fabra University, Barcelona, working on audio signal processing and artificial intelligence, particularly on deep learning for music applications.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Marius Miron</name>
+			
+			
+				<email>miron /dot/ marius /at/ gmail /dot/ com</email>
+			
+			
+				<uri>http://mariusmiron.com/</uri>
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/dummy-delete-me/</id>
+			<title>Dummy Delete Me</title>
+			<link href="http://localhost:4000/dummy-delete-me/" rel="alternate" type="text/html" title="Dummy Delete Me" />
+			<updated>2015-10-15T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Marius Miron</name>
+					
+					
+						<email>miron /dot/ marius /at/ gmail /dot/ com</email>
+					
+					
+						<uri>http://mariusmiron.com/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/dummy-delete-me/">&lt;hr /&gt;
+&lt;p&gt;layout: page
+#&lt;/p&gt;
+&lt;h1 id=&quot;content&quot;&gt;Content&lt;/h1&gt;
+&lt;p&gt;#
+subheadline: “Dummy”
+title: “You can delete this file”
+teaser: “Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”
+categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;dummy
+tags:&lt;/li&gt;
+  &lt;li&gt;dummy&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+
+			
+			
+
+			<published>2015-10-15T00:00:00+02:00</published>
+		</entry>
+	
+</feed>
