@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/404.html</loc>
+	<loc>http://nkundishuti.github.io:8080/webpage/404.html</loc>
 	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/blog/archive/</loc>
+	<loc>http://nkundishuti.github.io:8080/webpage/blog/archive/</loc>
 	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/atom.xml</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,163 +37,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/contact/</loc>
+	<loc>http://nkundishuti.github.io:8080/webpage/atom.xml</loc>
 	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/cv/</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/design/</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feed.xml</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/humans.txt</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/blog/</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/info/</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/robots.txt</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/search/</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/sitemap.xml</loc>
-	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -225,9 +54,180 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/teaching/</loc>
+	<loc>http://nkundishuti.github.io:8080/webpage/contact/</loc>
 	
-		<lastmod>2017-03-17T23:37:16+01:00</lastmod>
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/cv/</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/design/</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/feed.xml</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/humans.txt</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/blog/</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/info/</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/robots.txt</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/search/</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/sitemap.xml</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://nkundishuti.github.io:8080/webpage/teaching/</loc>
+	
+		<lastmod>2017-03-18T00:39:45+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -243,7 +243,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/dummy-delete-me/</loc>
+	<loc>http://nkundishuti.github.io:8080/webpage/dummy-delete-me/</loc>
 	
 		<lastmod>2015-10-15T00:00:00+02:00</lastmod>
 	

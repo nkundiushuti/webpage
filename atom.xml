@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/webpage/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/webpage/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/</id>
+	<id>http://nkundishuti.github.io:8080/webpage/</id>
 	<title>Marius Miron</title>
-	<updated>2017-03-17T23:37:16+01:00</updated>
+	<updated>2017-03-18T00:39:45+01:00</updated>
 
 	<subtitle>I am a PhD student/Research Engineer at Pompeu Fabra University, Barcelona, working on audio signal processing and artificial intelligence, particularly on deep learning for music applications.</subtitle>
 
@@ -23,16 +23,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+	<link href="http://nkundishuti.github.io:8080/webpage/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://nkundishuti.github.io:8080/webpage/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/dummy-delete-me/</id>
+			<id>http://nkundishuti.github.io:8080/webpage/dummy-delete-me/</id>
 			<title>Dummy Delete Me</title>
-			<link href="http://localhost:4000/dummy-delete-me/" rel="alternate" type="text/html" title="Dummy Delete Me" />
+			<link href="http://nkundishuti.github.io:8080/webpage/dummy-delete-me/" rel="alternate" type="text/html" title="Dummy Delete Me" />
 			<updated>2015-10-15T00:00:00+02:00</updated>
 
 			
@@ -50,7 +50,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/dummy-delete-me/">&lt;hr /&gt;
+			<content type="html" xml:base="http://nkundishuti.github.io:8080/webpage/dummy-delete-me/">&lt;hr /&gt;
 &lt;p&gt;layout: page
 #&lt;/p&gt;
 &lt;h1 id=&quot;content&quot;&gt;Content&lt;/h1&gt;
