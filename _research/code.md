@@ -1,8 +1,9 @@
+---
 layout: page
 sidebar: right
-title: "Research reproducibility"
+title: "Code & data"
 teaser: ""
-permalink: "/research/reproducible"
+permalink: "/research/code/"
 header:
     image_fullwidth: "mediaplayer_js-home.jpg"
 ---

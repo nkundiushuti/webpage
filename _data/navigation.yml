@@ -18,13 +18,13 @@
   side: left
   dropdown:
   - title: "Publications"
-    url: "/research/publications/"
-  - title: "Reproducible research"
-    url: "/research/reproducible"
+    url: "/research/publications"
   - title: "PhD Thesis"
     url: "/research/phd"
   - title: "Projects"
     url: "/research/projects"
+  - title: "Research reproducibility"
+    url: "/research/code"
 
 - title: Teaching
   url: "/teaching"

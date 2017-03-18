@@ -17,7 +17,7 @@ slogan: 'Marius Miron - personal website'
 description: 'I am a PhD student/Research Engineer at Pompeu Fabra University, Barcelona, working on audio signal processing and artificial intelligence, particularly on deep learning for music applications.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Theme based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p><p>Headphones by Simon Child from the Noun Project</p>'
+credits: '<p>Theme based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -30,6 +30,7 @@ baseurl: ''
 
 scholar:
   style: apa
+  sort_by: year
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages

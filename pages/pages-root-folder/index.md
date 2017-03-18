@@ -11,18 +11,19 @@ widget1:
   title: "PhD Thesis"
   url: 'http://mariusmiron.com/phd/'
   image: widget_phenicx.jpg
-  text: 'My PhD thesis concerns separating the audio corresponding to the instruments in an orchestral music mixture. This allows for interesting applications such as focusing on a particular sections in the orchestra or the re-creating the experience of the concert in virtual reality. '
+  text: 'My PhD thesis concerns separating the audio corresponding to the instruments in an orchestral music mixture. This allows for interesting applications such as re-creating the experience of the concert in virtual reality applications. '
+#This allows for interesting applications such as focusing on a particular sections in the orchestra or the re-creating the experience of the concert in virtual reality.
 widget2:
-  title: "Projects"
+  title: "Research projects"
   url: 'http://mariusmiron.com/research/projects/'
-  image: widget_phenicx.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  image: widget_prometeus.jpg
+  text: 'My research interests span a diverse range of topics: artificial intelligence, music information retrieval, real-time interaction, ethnomusicology, and last but not least, good old signal processing. I participated in interdisciplinary projects, such as <a href="http://smc.inesctec.pt/shakeit/">Shake-it</a> and <a href="http://phenicx.upf.edu/">PHENICX</a>.'
 widget3:
-  title: "Reproducible research"
+  title: "Code & data"
   url: 'https://github.com/nkundiushuti'
   image: widget_git.jpg
   text: 'Check out my latest <a href="https://github.com/MTG/DeepConvSep
-">deep learning repository</a> in python. I am committed to the principles of research reproducibility. Most of the code is made available through github, along with links to the dataset and instructions on how to replicate experiments.'
+">deep learning repository</a> in python. I am committed to the principles of <em>research reproducibility</em>. Most of the code is made available through github, along with links to the dataset and instructions on how to replicate experiments.'
 #
 # Use the call for action to show a button on the frontpage
 #
