@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/webpage/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/webpage/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://nkundishuti.github.io:8080/webpage/</id>
+	<id>http://localhost:4000/</id>
 	<title>Marius Miron</title>
-	<updated>2017-03-18T00:39:45+01:00</updated>
+	<updated>2017-03-18T14:41:45+01:00</updated>
 
 	<subtitle>I am a PhD student/Research Engineer at Pompeu Fabra University, Barcelona, working on audio signal processing and artificial intelligence, particularly on deep learning for music applications.</subtitle>
 
@@ -23,17 +23,17 @@
 		</author>
 	
 
-	<link href="http://nkundishuti.github.io:8080/webpage/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://nkundishuti.github.io:8080/webpage/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://nkundishuti.github.io:8080/webpage/dummy-delete-me/</id>
-			<title>Dummy Delete Me</title>
-			<link href="http://nkundishuti.github.io:8080/webpage/dummy-delete-me/" rel="alternate" type="text/html" title="Dummy Delete Me" />
-			<updated>2015-10-15T00:00:00+02:00</updated>
+			<id>http://localhost:4000/python-meetup/</id>
+			<title>Barcelona python March meetup</title>
+			<link href="http://localhost:4000/python-meetup/" rel="alternate" type="text/html" title="Barcelona python March meetup" />
+			<updated>2017-03-18T00:00:00+01:00</updated>
 
 			
 				
@@ -49,28 +49,27 @@
 					
 				</author>
 			
-			<summary></summary>
-			<content type="html" xml:base="http://nkundishuti.github.io:8080/webpage/dummy-delete-me/">&lt;hr /&gt;
-&lt;p&gt;layout: page
-#&lt;/p&gt;
-&lt;h1 id=&quot;content&quot;&gt;Content&lt;/h1&gt;
-&lt;p&gt;#
-subheadline: “Dummy”
-title: “You can delete this file”
-teaser: “Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”
-categories:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;dummy
-tags:&lt;/li&gt;
-  &lt;li&gt;dummy&lt;/li&gt;
-&lt;/ul&gt;
+			<summary>Testing with travis, concurrent tasks with celery, interactive plotting with plotly...</summary>
+			<content type="html" xml:base="http://localhost:4000/python-meetup/">&lt;p&gt;I am glad to have attended this meetup. There were three talks and I learned something from each one.&lt;/p&gt;
+
+&lt;p&gt;First, there is this interactive plotting tool called &lt;a href=&quot;https://plot.ly/&quot;&gt;plotly&lt;/a&gt;. You can zoom-in, check values, use the notebook, export JSON which you can access in web apps. More details &lt;a href=&quot;https://www.slideshare.net/GiovanniPerna2/meetup-73248476&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Then, podcast automatization: slicing, encoding, normalization. You would think there is software out there for that and it is trivial to automatize. Guess what? &lt;a href=&quot;https://github.com/dacacioa/appu-slides&quot;&gt;it is not&lt;/a&gt;. Ah…I was impressed by &lt;a href=&quot;https://travis-ci.org/&quot;&gt;Travis&lt;/a&gt;, test your github code in minutes.&lt;/p&gt;
+
+&lt;p&gt;Finally, I am not really interested in &lt;a href=&quot;https://github.com/xorduna/celerybot/blob/master/slides/celery_powered_bots.pdf&quot;&gt;bots&lt;/a&gt; but the process of responding to concurrent requests and making sure all the tasks work smoothly requires some attention. This is where &lt;a href=&quot;http://www.celeryproject.org/&quot;&gt;Celery&lt;/a&gt; comes into action.&lt;/p&gt;
 
 </content>
 
 			
+				<category term="" />
+			
+				<category term="" />
+			
+			
+				<category term="coding, python" />
 			
 
-			<published>2015-10-15T00:00:00+02:00</published>
+			<published>2017-03-18T00:00:00+01:00</published>
 		</entry>
 	
 </feed>

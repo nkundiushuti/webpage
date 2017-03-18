@@ -1,34 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://nkundishuti.github.io:8080/webpage/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://nkundishuti.github.io:8080/webpage/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Marius Miron</title>
 		<description>I am a PhD student/Research Engineer at Pompeu Fabra University, Barcelona, working on audio signal processing and artificial intelligence, particularly on deep learning for music applications.</description>
-		<link>http://nkundishuti.github.io:8080/webpage/</link>
-		<atom:link href="http://nkundishuti.github.io:8080/webpage/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Dummy Delete Me</title>
-				<link>http://nkundishuti.github.io:8080/webpage/dummy-delete-me/</link>
-				<pubDate>Thu, 15 Oct 2015 00:00:00 +0200</pubDate>
-				<description>&lt;hr /&gt;
-&lt;p&gt;layout: page
-#&lt;/p&gt;
-&lt;h1 id=&quot;content&quot;&gt;Content&lt;/h1&gt;
-&lt;p&gt;#
-subheadline: “Dummy”
-title: “You can delete this file”
-teaser: “Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”
-categories:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;dummy
-tags:&lt;/li&gt;
-  &lt;li&gt;dummy&lt;/li&gt;
-&lt;/ul&gt;
+				<title>Barcelona python March meetup</title>
+				<link>http://localhost:4000/python-meetup/</link>
+				<pubDate>Sat, 18 Mar 2017 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;I am glad to have attended this meetup. There were three talks and I learned something from each one.&lt;/p&gt;
+
+&lt;p&gt;First, there is this interactive plotting tool called &lt;a href=&quot;https://plot.ly/&quot;&gt;plotly&lt;/a&gt;. You can zoom-in, check values, use the notebook, export JSON which you can access in web apps. More details &lt;a href=&quot;https://www.slideshare.net/GiovanniPerna2/meetup-73248476&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Then, podcast automatization: slicing, encoding, normalization. You would think there is software out there for that and it is trivial to automatize. Guess what? &lt;a href=&quot;https://github.com/dacacioa/appu-slides&quot;&gt;it is not&lt;/a&gt;. Ah…I was impressed by &lt;a href=&quot;https://travis-ci.org/&quot;&gt;Travis&lt;/a&gt;, test your github code in minutes.&lt;/p&gt;
+
+&lt;p&gt;Finally, I am not really interested in &lt;a href=&quot;https://github.com/xorduna/celerybot/blob/master/slides/celery_powered_bots.pdf&quot;&gt;bots&lt;/a&gt; but the process of responding to concurrent requests and making sure all the tasks work smoothly requires some attention. This is where &lt;a href=&quot;http://www.celeryproject.org/&quot;&gt;Celery&lt;/a&gt; comes into action.&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://nkundishuti.github.io:8080/webpage/dummy-delete-me/</guid>
+				<guid isPermaLink="true">http://localhost:4000/python-meetup/</guid>
 			</item>
 		
 	</channel>

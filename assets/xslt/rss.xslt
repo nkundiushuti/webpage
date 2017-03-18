@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://nkundishuti.github.io:8080/webpage/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://nkundishuti.github.io:8080/webpage/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	
 	
 	
-	<link rel="canonical" href="http://nkundishuti.github.io:8080/webpage/assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="I am a PhD student/Research Engineer at Pompeu Fabra University, Barcelona, working on audio signal processing and artificial intelligence, particularly on deep learning for music applications.">
-	<meta property="og:url" content="http://nkundishuti.github.io:8080/webpage/assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Marius Miron">
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="http://nkundishuti.github.io:8080/webpage/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://nkundishuti.github.io:8080/webpage/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://nkundishuti.github.io:8080/webpage/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://nkundishuti.github.io:8080/webpage/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://nkundishuti.github.io:8080/webpage/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://nkundishuti.github.io:8080/webpage/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://nkundishuti.github.io:8080/webpage/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://nkundishuti.github.io:8080/webpage/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://nkundishuti.github.io:8080/webpage/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://nkundishuti.github.io:8080/webpage/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://nkundishuti.github.io:8080/webpage/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://nkundishuti.github.io:8080/webpage/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -104,7 +104,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://nkundishuti.github.io:8080/webpage" class="icon-tree"> Marius Miron</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Marius Miron</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -151,7 +151,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://nkundishuti.github.io:8080/webpage/search">Search</a></li>
+              <li><a  href="http://localhost:4000/search">Search</a></li>
 
             
             
@@ -165,7 +165,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://nkundishuti.github.io:8080/webpage/contact">Contact</a></li>
+              <li><a  href="http://localhost:4000/contact">Contact</a></li>
 
             
             
@@ -184,7 +184,7 @@
 
             
             
-              <li><a  href="http://nkundishuti.github.io:8080/webpage/">Home</a></li>
+              <li><a  href="http://localhost:4000/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -201,14 +201,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://nkundishuti.github.io:8080/webpage/blog">Blog</a>
+                <a  href="http://localhost:4000/blog">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://nkundishuti.github.io:8080/webpage/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -225,7 +225,7 @@
 
             
             
-              <li><a  href="http://nkundishuti.github.io:8080/webpage/cv">CV</a></li>
+              <li><a  href="http://localhost:4000/cv">CV</a></li>
               <li class="divider"></li>
 
             
@@ -242,29 +242,29 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://nkundishuti.github.io:8080/webpage">Research</a>
+                <a  href="http://localhost:4000">Research</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://nkundishuti.github.io:8080/webpage/research/publications/">Publications</a></li>
+                      <li><a  href="http://localhost:4000/research/publications">Publications</a></li>
                     
 
                       
 
-                      <li><a  href="http://nkundishuti.github.io:8080/webpage/research/reproducible">Reproducible research</a></li>
+                      <li><a  href="http://localhost:4000/research/phd">PhD Thesis</a></li>
                     
 
                       
 
-                      <li><a  href="http://nkundishuti.github.io:8080/webpage/research/phd">PhD Thesis</a></li>
+                      <li><a  href="http://localhost:4000/research/projects">Projects</a></li>
                     
 
                       
 
-                      <li><a  href="http://nkundishuti.github.io:8080/webpage/research/projects">Projects</a></li>
+                      <li><a  href="http://localhost:4000/research/code">Research reproducibility</a></li>
                     
                   </ul>
 
@@ -281,7 +281,7 @@
 
             
             
-              <li><a  href="http://nkundishuti.github.io:8080/webpage/teaching">Teaching</a></li>
+              <li><a  href="http://localhost:4000/teaching">Teaching</a></li>
               <li class="divider"></li>
 
             
@@ -311,8 +311,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://nkundishuti.github.io:8080/webpage/" title="Marius Miron – Marius Miron - personal website">
-				<img src="http://nkundishuti.github.io:8080/webpage/assets/img/logo.png" alt="Marius Miron – Marius Miron - personal website">
+			<a id="logo" href="http://localhost:4000/" title="Marius Miron – Marius Miron - personal website">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="Marius Miron – Marius Miron - personal website">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -390,7 +390,7 @@
 
             <p class="shadow-black">
               I am a PhD student/Research Engineer at Pompeu Fabra University, Barcelona, working on audio signal processing and artificial intelligence, particularly on deep learning for music applications.
-              <a href="http://nkundishuti.github.io:8080/webpage/info/">More ›</a>
+              <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -414,27 +414,27 @@
               
                 
                   <li >
-                    <a href="http://nkundishuti.github.io:8080/webpage"  title=""></a>
+                    <a href="http://localhost:4000"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://nkundishuti.github.io:8080/webpage/contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://nkundishuti.github.io:8080/webpage/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://nkundishuti.github.io:8080/webpage/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://nkundishuti.github.io:8080/webpage/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -460,7 +460,7 @@
             
               
                 <li >
-                  <a href="http://nkundishuti.github.io:8080/webpage"  title=""></a>
+                  <a href="http://localhost:4000"  title=""></a>
                 </li>
             
               
@@ -493,7 +493,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Theme based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p><p>Headphones by Simon Child from the Noun Project</p>
+            <p>Theme based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
@@ -514,7 +514,7 @@
 		
 
 
-<script src="http://nkundishuti.github.io:8080/webpage/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 
